@@ -1,4 +1,20 @@
 {
+  "name": "pinterest-video-downloader-api",
+  "version": "1.0.0",
+  "description": "A simple API to download Pinterest videos using Express, Axios, and Cheerio.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "pinterest",
+    "downloader",
+    "video",
+    "api",
+    "express"
+  ],
+  "author": "Rakib",
+  "license": "ISC",
   "dependencies": {
     "axios": "^1.18.1",
     "cheerio": "^1.2.0",
